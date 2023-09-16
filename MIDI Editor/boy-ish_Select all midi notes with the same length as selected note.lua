@@ -5,7 +5,7 @@
 -- Repository:
 -- Forum Thread:
 -- REAPER: 6.79
--- Version: 1.0
+-- @version 1.0
 -- Changelog
 --  v1.0 (2023-09-15)
 --    # Initial Release
